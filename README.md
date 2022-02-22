@@ -1,6 +1,6 @@
 # Project1
-![Chick Fil A Sandwich](Images/chickfila.jpg)
-![Popeyes Sandwich](Images/popeyes.jpg)
-![McDonalds Sandwich](Images/mcdonalds.jpg)
-![KFC Sandwich](Images/kfc.jpg)
-![Jordan Plewa](Images/jordanplewa.jpg)
+![Chick Fil A Sandwich](images/chickfila.jpg)
+![Popeyes Sandwich](images/popeyes.jpg)
+![McDonalds Sandwich](images/mcdonalds.jpg)
+![KFC Sandwich](images/kfc.jpg)
+![Jordan Plewa](images/jordanplewa.jpg)
